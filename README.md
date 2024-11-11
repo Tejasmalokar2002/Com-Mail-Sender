@@ -1,1 +1,1 @@
-# Eidiko-Mail-Sender
+# Com-Mail-Sender
